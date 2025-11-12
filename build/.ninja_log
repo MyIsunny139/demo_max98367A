@@ -2104,3 +2104,5 @@
 93624	93882	7846403505334485	E:/soft/ESP-project/esp32-demo-Assembly/demo_max98367A/build/.bin_timestamp	c4cdd3bbab9f7d8d
 93882	93964	7846403505404285	esp-idf/esptool_py/CMakeFiles/app_check_size	42f2c14a2cba1d84
 93882	93964	7846403505404285	E:/soft/ESP-project/esp32-demo-Assembly/demo_max98367A/build/esp-idf/esptool_py/CMakeFiles/app_check_size	42f2c14a2cba1d84
+32	1336854	7846398416635703	CMakeFiles/confserver	9c139dcfed6b143b
+32	1336854	7846398416635703	E:/soft/ESP-project/esp32-demo-Assembly/demo_max98367A/build/CMakeFiles/confserver	9c139dcfed6b143b
