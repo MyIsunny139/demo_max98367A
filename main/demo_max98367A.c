@@ -29,7 +29,6 @@ void play_voice_task(void *pvParameters)
 {
     ESP_LOGI(TAG, "循环播放: 我爱你，中国");
     i2s_tx_init();
-    max98367a_set_gain(2.5f);
     while (1) {
         size_t bytes_written = 0;
         esp_err_t ret = i2s_channel_write(tx_handle, (void*)audio_data, audio_data_len, &bytes_written, portMAX_DELAY);
